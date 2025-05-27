@@ -57,6 +57,5 @@
 
 ## 📬 Let's Connect!  
 - 🌐 **Website:** [tareqelmasri.dev](https://tareqelmasri.dev)  
-- 💻 **GitHub:** [@tareqelmasri](https://github.com/tareqelmasri)  
 - 💼 **LinkedIn:** [Tareq El-Masri](https://www.linkedin.com/in/tareq-el-masri)  
 - 📧 **Email:** [me@tareqelmasri.dev](mailto:me@tareqelmasri.dev)
