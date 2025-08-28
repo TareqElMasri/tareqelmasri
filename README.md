@@ -12,19 +12,20 @@
 
 ### Frameworks
 - React, React Native, Next.js, Django, FastAPI, Ruby on Rails  
+- PostgreSQL, MySQL, MongoDB 
 - Cypress, Detox  
 
 ### Languages
 - JavaScript, TypeScript, Python  
-- Swift, Kotlin, Java, Ruby  
+- Swift, Kotlin, Java, Ruby, SQL
 
 ### Process & Methodologies
 - Agile, Scrum, Kanban, TDD, BDD  
 - Jira, Asana, Trello  
 
 ### Cloud & Infrastructure
-- Docker, Kubernetes  
-- AWS (EKS, RDS, S3), Google Cloud, Azure  
+- Docker, Kubernetes, Terraform
+- AWS, Google Cloud, Azure  
 
 ### Tools
 - Figma, VS Code, Xcode, Android Studio  
