@@ -4,7 +4,7 @@
 🌍 **Based in Cairo, Egypt**  
 📚 **B.Sc. in Computer Science (Arab Open University)**  
 
-🚀 With over **1٤ years of experience**, I specialize in crafting scalable web and mobile applications. My expertise spans across **React**, **React Native**, **TypeScript**, **Python**, and more. From front-end magic to back-end prowess, I thrive in solving complex challenges with elegant code.
+🚀 With over **14 years of experience**, I specialize in crafting scalable web and mobile applications. My expertise spans across **React**, **React Native**, **TypeScript**, **Python**, and more. From front-end magic to back-end prowess, I thrive in solving complex challenges with elegant code.
 
 ---
 
