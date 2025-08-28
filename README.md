@@ -4,7 +4,7 @@
 🌍 **Based in Cairo, Egypt**  
 📚 **B.Sc. in Computer Science (Arab Open University)**  
 
-🚀 With over **12 years of experience**, I specialize in crafting scalable web and mobile applications. My expertise spans across **React**, **React Native**, **TypeScript**, **Python**, and more. From front-end magic to back-end prowess, I thrive in solving complex challenges with elegant code.
+🚀 With over **1٤ years of experience**, I specialize in crafting scalable web and mobile applications. My expertise spans across **React**, **React Native**, **TypeScript**, **Python**, and more. From front-end magic to back-end prowess, I thrive in solving complex challenges with elegant code.
 
 ---
 
@@ -34,7 +34,7 @@
 
 ## 💼 Professional Experience
 
-- **Senior Software Architecht (Full-time)** | Cisco | 10/2024 - Present   
+- **Software Architecht (Full-time)** | Cisco | 10/2024 - Present   
   _Tech Stack: React, TypeScript, Python, Django, Kubernetes, Terraform, AWS_
 
 - **Staff Full-Stack Engineer (Remote)** | Visual Quiz Builder (USA) | 08/2023 - Present  
